@@ -4,7 +4,7 @@ import string
 import hashlib
 
 # Getting data from Codenation API using personal Token
-my_token = '049c9c550834eadd24884a00015716df5e625ff5'
+my_token = '0123456789abcdef'
 r = requests.get(f'https://api.codenation.dev/v1/challenge/dev-ps/generate-data?token={my_token}')
 
 # Using r.json() to further dump in proper format
