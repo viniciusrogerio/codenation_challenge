@@ -1,5 +1,5 @@
 # Desafio AceleraDev Codenation
-[Introdução](https://github.com/viniciusrogerio/desafio_codenation#criptografia-de-júlio-césar) | [Regras](https://github.com/viniciusrogerio/desafio_codenation#regras)
+[Introdução](https://github.com/viniciusrogerio/desafio_codenation#criptografia-de-júlio-césar) | [Regras](https://github.com/viniciusrogerio/desafio_codenation#regras) | [Instruções](https://github.com/viniciusrogerio/desafio_codenation#instruções) | [Solução](https://github.com/viniciusrogerio/desafio_codenation#veja-aqui-a-solução-proposta-por-mim) | [Contato](https://github.com/viniciusrogerio/desafio_codenation#contato)
 ***
 ### Criptografia de Júlio César
 
@@ -22,6 +22,8 @@ O resultado da requisição vai ser um JSON conforme o exemplo:
 
 >{ "numero_casas": 10,<br>    "token":"token_do_usuario",<br>    "cifrado": "texto criptografado",<br>    "decifrado": "aqui vai o texto decifrado",<br>    "resumo_criptografico": "aqui vai o resumo" }
 
+### Instruções
+
 O primeiro passo é você salvar o conteúdo do JSON em um arquivo com o nome answer.json, que irá usar no restante do desafio.
 
 Você deve usar o número de casas para decifrar o texto e atualizar o arquivo JSON, no campo decifrado. O próximo passo é gerar um resumo criptográfico do texto decifrado usando o algoritmo sha1 e atualizar novamente o arquivo JSON. OBS: você pode usar qualquer biblioteca de criptografia da sua linguagem de programação favorita para gerar o resumo sha1 do texto decifrado.
@@ -37,4 +39,7 @@ O resultado da submissão vai ser sua nota ou o erro correspondente. Você pode 
 ### [Veja aqui a solução proposta por mim](https://github.com/viniciusrogerio/desafio_codenation/blob/master/solucao_final.py)
 ***Atenção***: *o token em questão foi obtido através da [plataforma Codenation](https://www.codenation.dev/) exclusivamente pelos participantes do desafio, para tornar possível o acesso à API e a identificação do participante. Qualquer tentativa de acesso a partir do token que consta no código não será bem sucedida.*
 ***
+
+### Contato
 Para dúvidas, críticas ou sugestões, me contatar pelo e-mail vinicius.stat@gmail.com
+LinkedIn: https://www.linkedin.com/in/viniciusrogerio/
