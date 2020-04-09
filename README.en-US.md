@@ -22,6 +22,7 @@ https://api.codenation.dev/v1/challenge/dev-ps/generate-data?token=SEU_TOKEN
 The result of the request will be a JSON according to the example:
 
 >{ "numero_casas": 10,<br>    "token":"token_do_usuario",<br>    "cifrado": "texto criptografado",<br>    "decifrado": "aqui vai o texto decifrado",<br>    "resumo_criptografico": "aqui vai o resumo" }<br>
+
 ***Note***: *Those JSON parameters have been written in brazilian portuguese, as it's the original idiom of the company who launched this challenge.*
 ### Instructions
 
