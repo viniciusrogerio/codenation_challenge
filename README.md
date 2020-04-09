@@ -1,7 +1,5 @@
 # Desafio AceleraDev Codenation
-***
 ### Criptografia de Júlio César
-
 
 Das Criptografias mais curiosas na história da humanidade podemos citar a criptografia utilizada pelo grande líder militar romano Júlio César para comunicar com os seus generais. Essa criptografia se baseia na substituição da letra do alfabeto avançado um determinado número de casas. Por exemplo, considerando o número de casas = 3:
 
