@@ -21,7 +21,7 @@ https://api.codenation.dev/v1/challenge/dev-ps/generate-data?token=SEU_TOKEN
 
 The result of the request will be a JSON according to the example:
 
->{ "numero_casas": 10,<br>    "token":"token_do_usuario",<br>    "cifrado": "texto criptografado",<br>    "decifrado": "aqui vai o texto decifrado",<br>    "resumo_criptografico": "aqui vai o resumo" }
+>{ "numero_casas": 10,<br>    "token":"token_do_usuario",<br>    "cifrado": "texto criptografado",<br>    "decifrado": "aqui vai o texto decifrado",<br>    "resumo_criptografico": "aqui vai o resumo" }<br>
 ***Note***: *Those JSON parameters have been written in brazilian portuguese, as it's the original idiom of the company who launched this challenge.*
 ### Instructions
 
@@ -38,7 +38,7 @@ Warning: the API expects the file to be sent as multipart/form-data, as if it wa
 The result will be your score or the correspondent error. You can submit as many times as you feel necessary, but the API won't let you submit more than once in a minute.
 ***
 ### [See my solution](https://github.com/viniciusrogerio/desafio_codenation/blob/master/solucao_final.py)
-***Attention***: * the present token was obtained through the [Codenation platform](https://www.codenation.dev/) exclusively by those running the challenge, in order to access the API and identify the participant. Any attempt of access using the example token on the code won't be sucessful.*
+***Attention***: *the present token was obtained through the [Codenation platform](https://www.codenation.dev/) exclusively by those running the challenge, in order to access the API and identify the participant. Any attempt of access using the example token on the code won't be sucessful.*
 ***
 
 ### Contact me
