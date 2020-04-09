@@ -39,7 +39,7 @@ Warning: the API expects the file to be sent as multipart/form-data, as if it wa
 The result will be your score or the correspondent error. You can submit as many times as you feel necessary, but the API won't let you submit more than once in a minute.
 ***
 ### [See my solution](https://github.com/viniciusrogerio/desafio_codenation/blob/master/solucao_final.py)
-***Attention***: *the present token was obtained through the [Codenation platform](https://www.codenation.dev/) exclusively by those running the challenge, in order to access the API and identify the participant. Any attempt of access using the example token on the code won't be successful.*
+***Attention***: *the token was obtained through the [Codenation platform](https://www.codenation.dev/) exclusively by those taking the challenge, in order to access the API and identify the participant. Any attempt of access using the example token on the code won't be successful.*
 ***
 
 ### Contact me
