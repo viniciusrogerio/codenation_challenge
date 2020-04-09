@@ -41,5 +41,5 @@ O resultado da submissão vai ser sua nota ou o erro correspondente. Você pode 
 ***
 
 ### Contato
-Para dúvidas, críticas ou sugestões, me contatar pelo e-mail vinicius.stat@gmail.com
+Para dúvidas, críticas ou sugestões, me contatar pelo e-mail vinicius.stat@gmail.com<br>
 LinkedIn: https://www.linkedin.com/in/viniciusrogerio/
