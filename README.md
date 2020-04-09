@@ -1,5 +1,5 @@
 # Desafio AceleraDev Codenation
-[Introdução](https://github.com/viniciusrogerio/desafio_codenation#criptografia-de-j%C3%BAlio-c%C3%A9sar)
+[Introdução](https://github.com/viniciusrogerio/desafio_codenation#criptografia-de-júlio-césar) | [Regras](https://github.com/viniciusrogerio/desafio_codenation#regras)
 ***
 ### Criptografia de Júlio César
 
