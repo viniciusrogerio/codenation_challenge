@@ -18,7 +18,7 @@ https://api.codenation.dev/v1/challenge/dev-ps/generate-data?token=SEU_TOKEN
 
 O resultado da requisição vai ser um JSON conforme o exemplo:
 
->{ "numero_casas": 10,<br>&emsp    "token":"token_do_usuario",<br><p>&emsp</p>    "cifrado": "texto criptografado",<br>    "decifrado": "aqui vai o texto decifrado",<br>    "resumo_criptografico": "aqui vai o resumo" }
+>{ "numero_casas": 10,<br>    "token":"token_do_usuario",<br>    "cifrado": "texto criptografado",<br>    "decifrado": "aqui vai o texto decifrado",<br>    "resumo_criptografico": "aqui vai o resumo" }
 
 O primeiro passo é você salvar o conteúdo do JSON em um arquivo com o nome answer.json, que irá usar no restante do desafio.
 
