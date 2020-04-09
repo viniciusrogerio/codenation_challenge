@@ -33,6 +33,6 @@ OBS: a API espera um arquivo sendo enviado como multipart/form-data, como se fos
 O resultado da submissão vai ser sua nota ou o erro correspondente. Você pode submeter quantas vezes achar necessário, mas a API não vai permitir mais de uma submissão por minuto.
 ***
 ### [Veja aqui a solução proposta por mim](https://github.com/viniciusrogerio/desafio_codenation/blob/master/solucao_final.py)
-***Atenção***: *o token em questão foi obtido através da [plataforma Codenation](https://www.codenation.dev/) exclusivamente pelos participantes do desafio, para tornar possível o acesso à API e a identificação do participante. Qualquer tentativa de acesso a partir do token que consta no código não será bem sucedida.*
+***Atenção***: *o token em questão foi obtido através da [plataforma Codenation](https://www.codenation.dev/){:target="_blank"} exclusivamente pelos participantes do desafio, para tornar possível o acesso à API e a identificação do participante. Qualquer tentativa de acesso a partir do token que consta no código não será bem sucedida.*
 ***
 Para dúvidas, críticas ou sugestões, me contatar pelo e-mail vinicius.stat@gmail.com
