@@ -18,7 +18,7 @@ https://api.codenation.dev/v1/challenge/dev-ps/generate-data?token=SEU_TOKEN
 
 O resultado da requisição vai ser um JSON conforme o exemplo:
 
->{ "numero_casas": 10,<br>    "token":"token_do_usuario",<br>    "cifrado": "texto criptografado",<br>    "decifrado": "aqui vai o texto decifrado",<br>    "resumo_criptografico": "aqui vai o resumo" }
+>{ "numero_casas": 10,<br>&emsp    "token":"token_do_usuario",<br><p>&emsp</p>    "cifrado": "texto criptografado",<br>    "decifrado": "aqui vai o texto decifrado",<br>    "resumo_criptografico": "aqui vai o resumo" }
 
 O primeiro passo é você salvar o conteúdo do JSON em um arquivo com o nome answer.json, que irá usar no restante do desafio.
 
@@ -33,6 +33,6 @@ OBS: a API espera um arquivo sendo enviado como multipart/form-data, como se fos
 O resultado da submissão vai ser sua nota ou o erro correspondente. Você pode submeter quantas vezes achar necessário, mas a API não vai permitir mais de uma submissão por minuto.
 ***
 ### [Veja aqui a solução proposta por mim](https://github.com/viniciusrogerio/desafio_codenation/blob/master/solucao_final.py)
-***Atenção***: *o token em questão foi obtido através da [plataforma Codenation](https://www.codenation.dev/){:target="_blank"} exclusivamente pelos participantes do desafio, para tornar possível o acesso à API e a identificação do participante. Qualquer tentativa de acesso a partir do token que consta no código não será bem sucedida.*
+***Atenção***: *o token em questão foi obtido através da [plataforma Codenation](https://www.codenation.dev/) exclusivamente pelos participantes do desafio, para tornar possível o acesso à API e a identificação do participante. Qualquer tentativa de acesso a partir do token que consta no código não será bem sucedida.*
 ***
 Para dúvidas, críticas ou sugestões, me contatar pelo e-mail vinicius.stat@gmail.com
